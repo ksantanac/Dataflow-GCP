@@ -1,0 +1,7 @@
+# Ignore the virtual environment folder
+env/
+venv/
+.env
+
+# Key for GCP
+cheveGCP.json
